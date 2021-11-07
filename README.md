@@ -6,8 +6,6 @@ Graduated in game development and design 🎮
 Previous experience working for a indie game company using unity c#
 
 Looking to participate in hackathons and all fun projects related to D&D!
-
-- 🤖 Currently working on [Heimdall](https://github.com/wberilo/Heimdall), a Discord bot for DnD
 <!--
 **wberilo/wberilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
