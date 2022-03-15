@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/berilo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="berilo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berilo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="berilo" height="50" width="50" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wberilo&theme=tokyonight" alt="wberilo" /></p>
