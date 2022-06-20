@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙃, I'm Berilo</h1>
 <h3 align="center">Full stack developer🎮</h3>
 
-Fullstack developer with React.js, React Native, Javascript, Typescript C#(.net core, EntityFramework) experience.
+Fullstack developer with React.js, GraphQL, React Native, Javascript, Typescript C#(.net core, EntityFramework) experience.
 
 Looking to participate in hackathons and all fun projects related to D&D!
 <!--
