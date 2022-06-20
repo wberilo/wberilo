@@ -1,12 +1,6 @@
 <h1 align="center">Hi 🙃, I'm Berilo</h1>
 <h3 align="center">Full stack developer🎮</h3>
 
-Graduated in game development and design 🎮
-
-Previous experience working for a indie game company using unity c#.
-
-Currently working as a full-time fullstack developer for AGL Solutions and freelance projects.
-
 Fullstack developer with React.js, React Native, Javascript, Typescript C#(.net core, EntityFramework) experience.
 
 Looking to participate in hackathons and all fun projects related to D&D!
