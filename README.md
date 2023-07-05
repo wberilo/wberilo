@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/berilo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="berilo" height="50" width="50" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wberilo&theme=tokyonight" alt="wberilo" /></p>
+
 
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wberilo&theme=tokyonight)
 
