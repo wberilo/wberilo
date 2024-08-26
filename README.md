@@ -5,7 +5,7 @@ Fullstack developer with React.js, GraphQL, React Native, Javascript, Typescript
 
 Looking to participate in hackathons and all fun projects related to D&D!
 
-<a href="https://berilo.dev/" target="blank">Blog (portuguese only for now)</a>
+<a href="https://berilo.dev/" target="blank">Blog (em português)</a>
 
 <!--
 **wberilo/wberilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
