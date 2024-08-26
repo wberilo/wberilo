@@ -4,6 +4,7 @@
 Fullstack developer with React.js, GraphQL, React Native, Javascript, Typescript C#(.net core, EntityFramework, Unity) experience.
 
 Looking to participate in hackathons and all fun projects related to D&D!
+
 <a href="https://berilo.dev/" target="blank">Blog (portuguese only for now)</a>
 
 <!--
